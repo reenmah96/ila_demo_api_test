@@ -2,6 +2,6 @@
 
 ### Screenshots
 
-![image](https://i.imgur.com/gzgip34})
+![image](https://i.imgur.com/gzgip34.png})
 
 https://imgur.com/gzgip34
