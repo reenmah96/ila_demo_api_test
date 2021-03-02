@@ -22,14 +22,13 @@ Project is created with:
 
 ### Creation of Open API using SpringBoot
 
-#### GET world countries -Bahrain
+#### POST world countries 
 ![image](https://i.imgur.com/gzgip34.png})
 
-
-#### GET world countries list
+#### GET world countries -Bahrain
 ![image](https://i.imgur.com/J7Bm0fe.png})
 
-#### POST world countries 
+#### GET world countries list
 ![image](https://i.imgur.com/ISnOJv4.png})
 
 
