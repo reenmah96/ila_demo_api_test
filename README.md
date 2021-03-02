@@ -2,4 +2,4 @@
 
 ### Screenshots
 
-![image](https://i.imgur.com/KOmpaYh.jpg})
+![image](https://i.imgur.com/})
