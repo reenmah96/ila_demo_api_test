@@ -12,10 +12,10 @@ Project is created with:
 
 
 ### Creation of Database (PostgreSQL)
-# Table Cities 
+#### Table Cities 
 ![image](https://i.imgur.com/1A5CZ22.png})
 
-# Table World Cities
+#### Table World Cities
 
 ![image](https://i.imgur.com/2uOpfyw.png})
 
