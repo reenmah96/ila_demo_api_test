@@ -1,7 +1,12 @@
 # ila_demo_api_test
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
 ### Screenshots
 
+![image](https://i.imgur.com/1A5CZ22.png})
 ![image](https://i.imgur.com/gzgip34.png})
 
 
@@ -9,7 +14,7 @@
 
 
 
-![image](https://i.imgur.com/1A5CZ22.png})
+
 
 
 
