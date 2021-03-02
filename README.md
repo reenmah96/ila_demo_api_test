@@ -5,19 +5,19 @@ Technical test for backend developer at ila bank submitted by Mahreen.
 
 ## Technologies
 Project is created with:
-	* Git Version Control
+  * Git Version Control
   *	Java EE
   *	Spring Boot
   * OpenAPI 3.0
 
 
 ### Creation of Database (PostgreSQL)
-* Table Cities 
+# Table Cities 
 ![image](https://i.imgur.com/1A5CZ22.png})
 
-* Table World Cities
+# Table World Cities
 
-![image](https://i.imgur.com/ISnOJv4.png})
+![image](https://i.imgur.com/2uOpfyw.png})
 
 
 ### Screenshots
@@ -27,11 +27,6 @@ Project is created with:
 
 
 ![image](https://i.imgur.com/J7Bm0fe.png})
-
-
-
-
-
 
 
 ![image](https://i.imgur.com/ISnOJv4.png})
