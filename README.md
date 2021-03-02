@@ -1,11 +1,24 @@
 
 ## ila_demo_api_test
-Technical test for backend developer at ila bank. 
+Technical test for backend developer at ila bank submitted by Mahreen. 
 
-* Database PostresSQL 
+
+## Technologies
+Project is created with:
+	* Git Version Control
+  *	Java EE
+  *	Spring Boot
+  * OpenAPI 3.0
+
+
+### Creation of Database (PostgreSQL)
+* Table Cities 
 ![image](https://i.imgur.com/1A5CZ22.png})
-* [Technologies](#technologies)
-* [Setup](#setup)
+
+* Table World Cities
+
+![image](https://i.imgur.com/ISnOJv4.png})
+
 
 ### Screenshots
 
