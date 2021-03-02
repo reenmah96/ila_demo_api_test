@@ -2,7 +2,8 @@
 ## ila_demo_api_test
 Technical test for backend developer at ila bank. 
 
-* [Database PostresSQL ]
+* Database PostresSQL 
+![image](https://i.imgur.com/1A5CZ22.png})
 * [Technologies](#technologies)
 * [Setup](#setup)
 
