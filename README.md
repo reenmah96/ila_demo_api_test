@@ -11,7 +11,7 @@ Project is created with:
   * OpenAPI 3.0
 
 
-### Creation of Database (PostgreSQL)
+### Creation of Database Globe (PostgreSQL)
 #### Table Cities 
 ![image](https://i.imgur.com/1A5CZ22.png})
 
@@ -20,7 +20,7 @@ Project is created with:
 ![image](https://i.imgur.com/2uOpfyw.png})
 
 
-### Creation of Open API using SpringBoot
+### Tested Open API ( SpringBoot )
 
 #### POST world countries 
 ![image](https://i.imgur.com/gzgip34.png})
