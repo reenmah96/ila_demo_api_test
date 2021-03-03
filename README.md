@@ -43,7 +43,7 @@ https://paste.ofcode.org/tSybkgD94j9AfXm5kJgamY
 ![image](https://i.imgur.com/ISnOJv4.png})
 
 ### Writing a file to S3 using Lambda in Python with AWS
- Use Lambda function to write a file to S3, then test "succeeded" and appeared in S3 bucket. 
+ Use Lambda function to write a file to S3, the test "succeeded" and appeared in S3 bucket. 
 
 #### AWS Lambda function (uploadAPI)
 ![image](https://i.imgur.com/rYGx2CR.png})
