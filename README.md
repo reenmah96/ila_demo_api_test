@@ -12,15 +12,15 @@ Project is created with:
 
 
 ### Creation of Database Globe (PostgreSQL)
-#### Table Cities 
+#### Data Cities 
 ![image](https://i.imgur.com/1A5CZ22.png})
 
-#### Table World Cities
+#### Data World Cities
 
 ![image](https://i.imgur.com/2uOpfyw.png})
 
 
-### Tested Open API ( SpringBoot )
+### Tested API on POSTMAN too
 
 #### POST world countries 
 ![image](https://i.imgur.com/gzgip34.png})
