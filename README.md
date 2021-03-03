@@ -35,6 +35,20 @@ Project is created with:
 #### GET Method to fetch the list of countries
 ![image](https://i.imgur.com/ISnOJv4.png})
 
+### AWS Lambda to write the file to S3
+
+#### AWS Lambda function 
+#### Python code in AWS Lambda
+#### S3 bucket 
+#### Write file in S3 bucket 
+
+#### SQL Script of cities table
+https://paste.ofcode.org/NqMFsZaimStfghuaMe3fZn
+
+### SQL Script of world_countries table
+https://paste.ofcode.org/tSybkgD94j9AfXm5kJgamY
+
+
 
 
 
