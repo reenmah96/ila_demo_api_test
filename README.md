@@ -1,15 +1,18 @@
 
-## ila_demo_api_test
-Technical test for backend developer at ila bank submitted by Mahreen. 
+## Demo APIs using Spring Boot with PostgresSQL
+A Github repository which contains the complete source code developed using SpringBoot
 
+### Description
+This project demonstrates the creation of APIs using SpringBoot framework and PostgreSQL database. 
 
 ## Technologies
 Project is created with:
-  * Git Version Control
+  * Intellij Editor
+  * Database using PostgreSQL
   *	Java EE
   *	Spring Boot
-  * OpenAPI 3.0
-  * AWS Lambda, S3 
+  *	AWS Lambda & S3
+  *	Git Version Control
 
 
 ### Creation of Database Globe (PostgreSQL)
@@ -21,19 +24,18 @@ Project is created with:
 ![image](https://i.imgur.com/2uOpfyw.png})
 
 
-### Tested API on POSTMAN tool
+### Tested APIs on POSTMAN tool
 
-#### POST world countries 
+#### POST Method to post the country into world_cities table
 ![image](https://i.imgur.com/gzgip34.png})
 
-#### GET world countries -Bahrain
+#### GET Method to fetch the particulary country by passing the country name - Ex: Bahrain
 ![image](https://i.imgur.com/J7Bm0fe.png})
 
-#### GET world countries list
+#### GET Method to fetch the list of countries
 ![image](https://i.imgur.com/ISnOJv4.png})
 
-### Write a file to S3
-https://i.imgur.com/W3CUyRf.png
+
 
 
 
