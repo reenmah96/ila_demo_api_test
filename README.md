@@ -9,6 +9,7 @@ Project is created with:
   *	Java EE
   *	Spring Boot
   * OpenAPI 3.0
+  * AWS Lambda, S3 
 
 
 ### Creation of Database Globe (PostgreSQL)
@@ -31,7 +32,8 @@ Project is created with:
 #### GET world countries list
 ![image](https://i.imgur.com/ISnOJv4.png})
 
-
+### Write a file to S3
+https://i.imgur.com/W3CUyRf.png
 
 
 
