@@ -16,10 +16,10 @@ Project is created with:
 
 
 ### Creation of Database Globe (PostgreSQL)
-#### Data Cities 
+#### Data cities  
 ![image](https://i.imgur.com/1A5CZ22.png})
 
-#### Data World Cities
+#### Data world_countries
 
 ![image](https://i.imgur.com/2uOpfyw.png})
 
