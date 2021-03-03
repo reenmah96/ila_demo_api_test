@@ -24,6 +24,13 @@ Project is created with:
 ![image](https://i.imgur.com/2uOpfyw.png})
 
 
+#### SQL Script of cities table
+https://paste.ofcode.org/NqMFsZaimStfghuaMe3fZn
+
+#### SQL Script of world_countries table
+https://paste.ofcode.org/tSybkgD94j9AfXm5kJgamY
+
+
 ### Tested APIs on POSTMAN tool
 
 #### POST Method to post the country into world_cities table
@@ -37,16 +44,20 @@ Project is created with:
 
 ### AWS Lambda to write the file to S3
 
-#### AWS Lambda function 
+#### AWS Lambda function (uploadAPI)
+![image](https://i.imgur.com/rYGx2CR.png})
+
 #### Python code in AWS Lambda
-#### S3 bucket 
-#### Write file in S3 bucket 
+![image](https://i.imgur.com/W3CUyRf.png})
 
-#### SQL Script of cities table
-https://paste.ofcode.org/NqMFsZaimStfghuaMe3fZn
+#### S3 bucket (tutorial-upload-api)
+![image](https://i.imgur.com/RZ74Zzi.png})
 
-### SQL Script of world_countries table
-https://paste.ofcode.org/tSybkgD94j9AfXm5kJgamY
+#### Result file in S3 bucket (write.json)
+![image](https://i.imgur.com/ZFF0spN.png})
+
+#### Overview of resulted file
+![image](https://i.imgur.com/eLI0Dis.png})
 
 
 
