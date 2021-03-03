@@ -42,7 +42,8 @@ https://paste.ofcode.org/tSybkgD94j9AfXm5kJgamY
 #### GET Method : to fetch the list of countries
 ![image](https://i.imgur.com/ISnOJv4.png})
 
-### AWS Lambda to write the file to S3
+### Writing a file to S3 using Lambda in Python with AWS
+ Use Lambda function to write a file to S3, then test "succeeded" and appeared in S3 bucket. 
 
 #### AWS Lambda function (uploadAPI)
 ![image](https://i.imgur.com/rYGx2CR.png})
