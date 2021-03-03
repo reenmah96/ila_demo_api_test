@@ -33,13 +33,13 @@ https://paste.ofcode.org/tSybkgD94j9AfXm5kJgamY
 
 ### Tested APIs on POSTMAN tool
 
-#### POST Method to post the country into world_cities table
+#### POST Method : to post the country into world_cities table
 ![image](https://i.imgur.com/gzgip34.png})
 
-#### GET Method to fetch the particulary country by passing the country name - Ex: Bahrain
+#### GET Method : to fetch the particulary country by passing the country name - Ex: Bahrain
 ![image](https://i.imgur.com/J7Bm0fe.png})
 
-#### GET Method to fetch the list of countries
+#### GET Method : to fetch the list of countries
 ![image](https://i.imgur.com/ISnOJv4.png})
 
 ### AWS Lambda to write the file to S3
