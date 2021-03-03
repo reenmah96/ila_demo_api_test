@@ -20,7 +20,7 @@ Project is created with:
 ![image](https://i.imgur.com/2uOpfyw.png})
 
 
-### Tested API on POSTMAN too
+### Tested API on POSTMAN tool
 
 #### POST world countries 
 ![image](https://i.imgur.com/gzgip34.png})
